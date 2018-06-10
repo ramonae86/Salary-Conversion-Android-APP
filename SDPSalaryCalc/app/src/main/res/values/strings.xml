@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">SDPSalaryCalc</string>
+    <string name="error_salary">Salary Required</string>
+    <string name="error_city_equal">Cities Must Be Different</string>
+    <string name="city1">Atlanta, GA</string>
+    <string name="city2">Athens, GA</string>
+    <string name="city3">New York City, NY</string>
+    <string name="city4">Austin, TX</string>
+    <string name="city5">Seattle, WA</string>
+    <string name="city6">San Francisco, CA</string>
+    <string name="city7">Washington D.C.</string>
+    <string name="city8">Boston, MA</string>
+    <string name="city9">Tampa, FL</string>
+    <string name="city10">Las Vegas, NV</string>
+    <string-array name="city_array">
+        <item>Atlanta, GA</item>
+        <item>Athens, GA</item>
+        <item>New York City, NY</item>
+        <item>Austin, TX</item>
+        <item>Seattle, WA</item>
+        <item>San Francisco, CA</item>
+        <item>Washington D.C.</item>
+        <item>Boston, MA</item>
+        <item>Tampa, FL</item>
+        <item>Las Vegas, NV</item>
+    </string-array>
+</resources>
